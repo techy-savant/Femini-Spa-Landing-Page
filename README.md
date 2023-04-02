@@ -3,8 +3,14 @@
 # All-Female Exclusive Spa
 
 
-<img
-  src="/images/"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+![Large Screen](/images/femini-pic.png)
+
+# Smaller Screen
+![Small Screen](/images/femini-small.png)
+
+
+
+# Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com) 
