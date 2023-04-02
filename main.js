@@ -6,8 +6,8 @@ let navbar = document.querySelector(".navbar");
 
 menu.onclick = () => {
   menuIcon.classList.toggle("bx-x");
-  menuIcon.classList.toggle("move");
   navbar.classList.toggle("open-menu");
+  menuIcon.classList.toggle("move");
 };
 
 //swiper
