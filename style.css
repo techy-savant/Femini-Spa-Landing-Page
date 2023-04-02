@@ -109,7 +109,7 @@ header.shadow{
     display: none;
     cursor: pointer;
     z-index: 200;
-    transition: .3s;
+    transition: .4s all cubic-bezier(0.075, 0.82, 0.165, 1);
 }
 .menu-icon i{
     display: block;
