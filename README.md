@@ -1,15 +1,14 @@
-### Femini-Spa-Landing-Page
+# Femini-Spa
 
-# All-Female Exclusive Spa
+All-Female Exclusive Spa
 
+## About
+This is a code repository for the Femini Spa Website.
 
-# ![Large Screen](/images/femini-pic.png)
-
-# Smaller Screen
-![Small Screen](/images/femini-small.png)
-
+<br>
 
 
-# Live Site
 
-- Live Site URL: (https://femini-spa.netlify.app/) 
+![Femini-Spa](/images/femini-pic.png)
+
+### Live Site: [femini-spa](https://femini-spa.netlify.app/)
